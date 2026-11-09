@@ -102,7 +102,7 @@ The project includes:
 * GitHub Actions workflow.
 * README documentation.
 
-A minimum of 20 meaningful co
+A minimum of 20 meaningful 
 
 Error Handling and User Interface
 
