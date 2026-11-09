@@ -102,7 +102,7 @@ The project includes:
 * GitHub Actions workflow.
 * README documentation.
 
-A minimum of 20 meaningfu
+A minimum of 20 meaning
 
 Error Handling and User Interface
 
