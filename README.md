@@ -102,7 +102,6 @@ The project includes:
 * GitHub Actions workflow.
 * README documentation.
 
-A minimum of 20 meani
 
 Error Handling and User Interface
 
