@@ -102,7 +102,7 @@ The project includes:
 * GitHub Actions workflow.
 * README documentation.
 
-A minimum of 20 meaningful commits is requ
+A minimum of 20 meaningful commits is 
 
 Error Handling and User Interface
 
