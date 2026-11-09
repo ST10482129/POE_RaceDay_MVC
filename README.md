@@ -102,7 +102,7 @@ The project includes:
 * GitHub Actions workflow.
 * README documentation.
 
-A minimum of 20 meaningful commits is required for Pa
+A minimum of 20 meaningful commits is required for P
 
 Error Handling and User Interface
 
